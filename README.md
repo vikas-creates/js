@@ -1,1 +1,2 @@
-how to use git..
+# js_projects
+it is just learning..
